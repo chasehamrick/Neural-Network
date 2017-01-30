@@ -1,0 +1,5 @@
+question 8 white wine data answer
+
+accuracy average: 0.303461538462
+accuracy standard deviation: 0.247775308597
+max accuracy: 0.505769230769

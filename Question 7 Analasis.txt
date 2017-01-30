@@ -1,0 +1,23 @@
+Type python Testing.py -q7 to test XOR data... also manually change the hiden layers by 1 each time yourself.... 
+
+running with 0 hidden layers gets 0.5 average accuracy every time, with 0 standard deviation
+
+running with 1 hidden layer gets 0.75 average accuracy every time, with 0 standard deviation
+
+testing with 2 hidden layers gets 80 - 90% average accuracy, with accuracy ranging from 75% - 100%
+
+Testing with 3 or 4 hidden layers consistently gets 90 - 100% average accuracy with individual answers spanning from 75% - 100% but getting 100% more often
+
+Running with 4 hidden layers gets 100% avg accuracy a bit more than with 3. 
+
+Running with 5 Hidden layers gets 95% - 100% average accuracy, sometimes having only one of the 5 iterations at 75%, but this rarely happens and is 100% average accuracy most of the time.
+
+Running from 6 - 9 gets 95 - 100% average accuracy each time, with higher and higher probability of getting 100% the higher you go.
+
+It finally tops out at 10 Hidden Layers and gets 100% each and every time.
+
+Interestingly, after this it seems to get worse and worse, as you go higher you get 100% less often, then around 20 hidden layers you get 85% average accuracy, at 25 layers I got 70% average accuracy,  until it bottomed out again at 36 hidden layers where I got 50% average accuracy like with 0 hidden layers..
+
+As the number of neurons in the hidden layer grows the average accuracy does as well until it gets to the peak hidden layer which is 10. After this, it starts to decline which is what I thought would happen after looking at my graphs for part 6. In part 6 there was also a peak to my graph and after that peak it decreased in accuracy some. However it seemed to stable out quicker and not decrease in accuracy as much as in this part with the Xor data. Perhaps because of the vastly different data types. In addition, with this problem, the data actually bottomed out back where it started at 0 hidden layers with 50% average accuracy, while before in question 6 it stabilized out without getting that low again.
+
+Also, the Xor Data set is not nearly as large as say, my data set for question 8 so it makes since that it tops out at 10 hidden layers instead of way higher like my question 8 data.

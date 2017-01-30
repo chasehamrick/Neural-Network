@@ -1,0 +1,9 @@
+Starting training at time 16:13:43.431000 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.005905 and weight change 0.000268
+. . . . . . . . . ! on iteration 20; training error 0.004317 and weight change 0.000185
+. . . . . . . . . ! on iteration 30; training error 0.003628 and weight change 0.000145
+. . . . . . . . . ! on iteration 40; training error 0.003253 and weight change 0.000119
+. . . . . . . . . ! on iteration 50; training error 0.003027 and weight change 0.000100
+. . . . . . . . . ! on iteration 60; training error 0.002883 and weight change 0.000088
+. . . . . . . . . Finished after 69 iterations at time 16:24:06.595000 with training error 0.002792 and weight change 0.000079
+Feed Forward Test correctly classified 3183, incorrectly classified 315, test percent error  0.909949

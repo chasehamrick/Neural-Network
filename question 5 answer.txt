@@ -1,0 +1,11 @@
+question 5 pen data
+
+accuracy average: 0.904402515723
+accuracy standard deviation: 0.00223350771694
+max accuracy: 0.90708976558
+
+question 5 car data
+
+accuracy average: 0.834947643979
+accuracy standard deviation: 0.00743197359507
+max accuracy: 0.846858638743

@@ -1,0 +1,69 @@
+
+
+question 5 pen data
+
+
+iteration # 1
+Starting training at time 15:18:50.827000 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 63 iterations at time 15:35:06.146000 with training error 0.002778 and weight change 0.000079
+Feed Forward Test correctly classified 3162, incorrectly classified 336, test percent error  0.903945
+
+iteration # 2
+Starting training at time 15:35:11.868000 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 73 iterations at time 15:46:41.933000 with training error 0.002597 and weight change 0.000080
+Feed Forward Test correctly classified 3172, incorrectly classified 326, test percent error  0.906804
+
+running iteration # 3
+Starting training at time 15:46:42.511000 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 74 iterations at time 16:18:14.673000 with training error 0.002786 and weight change 0.000080
+Feed Forward Test correctly classified 3153, incorrectly classified 345, test percent error  0.901372
+
+running iteration # 4
+Starting training at time 16:18:15.262000 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 76 iterations at time 16:35:31.041000 with training error 0.002619 and weight change 0.000080
+Feed Forward Test correctly classified 3158, incorrectly classified 340, test percent error  0.902802
+
+running iteration # 5
+Starting training at time 16:35:32.994000 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 85 iterations at time 17:03:57.473000 with training error 0.002601 and weight change 0.000080
+Feed Forward Test correctly classified 3173, incorrectly classified 325, test percent error  0.907090
+
+Iterations finished
+accuracy average: 0.904402515723
+accuracy standard deviation: 0.00223350771694
+max accuracy: 0.90708976558
+
+
+
+question 5 car data
+
+
+running iteration # 1
+Starting training at time 17:04:00.485000 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 17:06:28.675000 with training error 0.003556 and weight change 0.000119
+Feed Forward Test correctly classified 1294, incorrectly classified 234, test percent error  0.846859
+
+running iteration # 2
+Starting training at time 17:06:29.444000 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 17:08:34.173000 with training error 0.004258 and weight change 0.000137
+Feed Forward Test correctly classified 1269, incorrectly classified 259, test percent error  0.830497
+
+running iteration # 3
+Starting training at time 17:08:35.457000 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 17:10:50.617000 with training error 0.003890 and weight change 0.000138
+Feed Forward Test correctly classified 1260, incorrectly classified 268, test percent error  0.824607
+
+running iteration # 4
+Starting training at time 17:10:51.818000 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 17:12:58.653000 with training error 0.003603 and weight change 0.000139
+Feed Forward Test correctly classified 1280, incorrectly classified 248, test percent error  0.837696
+
+running iteration # 5
+Starting training at time 17:12:59.802000 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 17:15:00.197000 with training error 0.003565 and weight change 0.000131
+Feed Forward Test correctly classified 1276, incorrectly classified 252, test percent error  0.835079
+
+Iteration finished
+accuracy average: 0.834947643979
+accuracy standard deviation: 0.00743197359507
+max accuracy: 0.846858638743

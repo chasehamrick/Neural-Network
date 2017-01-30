@@ -1,0 +1,29 @@
+running iteration # 1
+Starting training at time 15:56:57.791000 with 11 inputs, 11 outputs, [80] hidden layers, size of training set 3338, and size of test set 1560
+Finished after 2 iterations at time 15:57:08.701000 with training error 0.069366 and weight change 0.000001
+Feed Forward Test correctly classified 0, incorrectly classified 1560, test percent error  0.000000
+
+running iteration # 2
+Starting training at time 15:57:09.377000 with 11 inputs, 11 outputs, [80] hidden layers, size of training set 3338, and size of test set 1560
+Finished after 2 iterations at time 15:57:20.379000 with training error 0.069366 and weight change 0.000010
+Feed Forward Test correctly classified 0, incorrectly classified 1560, test percent error  0.000000
+
+running iteration # 3
+Starting training at time 15:57:21.071000 with 11 inputs, 11 outputs, [80] hidden layers, size of training set 3338, and size of test set 1560
+Finished after 1 iterations at time 15:57:26.736000 with training error 0.052578 and weight change 0.000073
+Feed Forward Test correctly classified 789, incorrectly classified 771, test percent error  0.505769
+
+running iteration # 4
+Starting training at time 15:57:27.452000 with 11 inputs, 11 outputs, [80] hidden layers, size of training set 3338, and size of test set 1560
+Finished after 2 iterations at time 15:57:39.003000 with training error 0.052535 and weight change 0.000007
+Feed Forward Test correctly classified 789, incorrectly classified 771, test percent error  0.505769
+
+running iteration # 5
+Starting training at time 15:57:39.728000 with 11 inputs, 11 outputs, [80] hidden layers, size of training set 3338, and size of test set 1560
+Finished after 1 iterations at time 15:57:45.346000 with training error 0.052611 and weight change 0.000077
+Feed Forward Test correctly classified 789, incorrectly classified 771, test percent error  0.505769
+
+Iterations finished
+accuracy average: 0.303461538462
+accuracy standard deviation: 0.247775308597
+max accuracy: 0.505769230769
